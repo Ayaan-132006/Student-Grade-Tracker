@@ -8,6 +8,8 @@ The Student Grade Tracker is a simple academic management system designed to hel
 All student records can be saved to a text file, ensuring that data is stored outside the program for future reference.
 
 ✨ Features
+
+
 Add student names and grades through a user-friendly GUI
 Display student records in a table
 Calculate:
@@ -18,7 +20,11 @@ Store student data using file handling
 Save records to a text file (students.txt)
 Object-Oriented Programming (OOP) implementation
 Clean and responsive Java Swing interface
+
+
 🛠 Technologies Used
+
+
 Java
 Java Swing (GUI)
 ArrayList
